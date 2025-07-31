@@ -95,22 +95,30 @@ Output: Predicted NSAP Scheme Code with confidence %
 
 ## 📸 Screenshots
 
-🔍 Dataset Split and Experiment
+## 🧠 Train-Test Split Visualization
+
+<img width="100%" alt="AutoAI Pipeline" src="https://github.com/user-attachments/assets/3f90d2f4-98c6-4a91-8dca-2b3d1a6dd2da" />
+
+---
+
+## 🔄 AutoAI Pipeline Overview
+
+<img width="100%" alt="Input Data" src="https://github.com/user-attachments/assets/fdd06d1d-8204-4b03-a976-748ce9ce5356" />
+
+---
+
+## 🧪 Input Dataset Sample
+
+<img width="100%" alt="Prediction Output" src="https://github.com/user-attachments/assets/b4b38b43-e140-4731-a9be-eddbd81f8e92" />
+
+---
+
+## ✅ Prediction Output
 
 
+<img width="100%" alt="Train-Test Split" src="https://github.com/user-attachments/assets/992ae882-c0fd-460f-a7f7-18d276c0b610" />
 
-🛠️ AutoAI Pipeline
-
-
-
-🧪 Test Data Input
-
-
-
-📈 Prediction Results
-
-
-
+---
 
 ## 🏃‍♀️ How to Run and Deploy
 1. Log in to IBM Cloud
