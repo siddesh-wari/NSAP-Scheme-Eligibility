@@ -95,7 +95,7 @@ Output: Predicted NSAP Scheme Code with confidence %
 
 ## 📸 Screenshots
 
-## 🧠 Train-Test Split Visualization
+## 🧠 Training Dataset
 
 <img width="100%" alt="AutoAI Pipeline" src="https://github.com/user-attachments/assets/3f90d2f4-98c6-4a91-8dca-2b3d1a6dd2da" />
 
