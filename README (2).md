@@ -95,7 +95,6 @@ Output: Predicted NSAP Scheme Code with confidence %
 
 ## 📸 Screenshots
 
-
 🔍 Dataset Split and Experiment
 
 
@@ -109,6 +108,8 @@ Output: Predicted NSAP Scheme Code with confidence %
 
 
 📈 Prediction Results
+
+
 
 
 ## 🏃‍♀️ How to Run and Deploy
